@@ -1,0 +1,23 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "[Replit](https://basic-informational-site.smlrods.repl.co/)",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smlrods/basic-informational-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smlrods/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/smlrods/basic-informational-site#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
